@@ -9,4 +9,4 @@
 1. Make sure that the R, BiomaRt in R, Blast, and SNP-sites are all installed and their environment are configured before running the shell.
 2. The MUSCLE program (version 3.8) and stable.py are downloaded from [http://www.drive5.com/muscle/muscle_userguide3.8.html]
 3. This study uses the fungus - Aspergillus fumigatus A1163 as a reference strain, if your study uses another species or other reference template please change the corresponding parameters in "biomart_get_sequence.r".
-4. Given the differences between versions Python and BLAST, you may need to slightly modify the corresponding commands in the shell to suit your computer. 
+4. Given the differences between versions of Python and BLAST, you may need to slightly modify the corresponding commands in the shell to suit your computer. 
